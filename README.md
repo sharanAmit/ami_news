@@ -12,6 +12,16 @@
 
 ## Screenshots
 
+<div>
+<img src="https://github.com/sharanAmit/ami_news/blob/main/assets/Screenshots/Screenshot_2022-04-05-11-28-06-280.jpeg" width="350px">
+<img src="https://github.com/sharanAmit/ami_news/blob/main/assets/Screenshots/Screenshot_2022-04-05-11-28-22-096.jpeg" width="350px">
+</div>
+
+ 
+<div>
+<img src="https://github.com/sharanAmit/ami_news/blob/main/assets/Screenshots/Screenshot_2022-04-05-11-31-38-395.jpeg" width="350px">
+<img src="https://github.com/sharanAmit/ami_news/blob/main/assets/Screenshots/Screenshot_2022-04-05-11-32-11-021.jpeg" width="350px">
+</div>
 
 
 ## Package Used
